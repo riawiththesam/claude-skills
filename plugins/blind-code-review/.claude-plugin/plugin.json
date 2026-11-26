@@ -1,0 +1,9 @@
+{
+  "name": "blind-code-review",
+  "description": "PR説明・commit・コメント・テストを伏せてコードだけでレビューし、その評価を基準に文章側の主張を検証する2段階レビュー",
+  "version": "0.1.0",
+  "author": {
+    "name": "riawiththesam"
+  },
+  "license": "MIT"
+}

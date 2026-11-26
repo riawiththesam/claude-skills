@@ -1,0 +1,11 @@
+{
+  "name": "riawiththesam-skills",
+  "owner": { "name": "riawiththesam" },
+  "plugins": [
+    {
+      "name": "blind-code-review",
+      "source": "./plugins/blind-code-review",
+      "description": "PR説明・commit・コメント・テストを伏せてコードだけでレビューし、その評価を基準に文章側の主張を検証する2段階レビュー"
+    }
+  ]
+}
